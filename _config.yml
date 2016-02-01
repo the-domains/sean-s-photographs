@@ -1,0 +1,28 @@
+name: "Sean's Photographs"
+favicon: null
+layout_spectrum: 0.19167120126076043
+typography_spectrum: 0.525210436200723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1704515558667481
+  lightness: 0.6088732173666358
+  saturation: 0.9557074813637882
+  rhythmicContrast: 0.744123914046213
+purpose: []
