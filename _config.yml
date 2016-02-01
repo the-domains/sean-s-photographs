@@ -1,6 +1,6 @@
 name: "Sean's Photographs"
 favicon: null
-layout_spectrum: 0.19167120126076043
+layout_spectrum: 1
 typography_spectrum: 0.525210436200723
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.1704515558667481
+  brandStrength: 0.5
   lightness: 0.6088732173666358
   saturation: 0.9557074813637882
   rhythmicContrast: 0.744123914046213
